@@ -37,35 +37,35 @@ write your answer here...
 **Observation Units**: Identical to the sampling units; the individuals selected for the survey.
 Your 5-10 question survey:
 ```
-### Survey Design (10 Questions)
 
-1. **Are you satisfied with your current role?** (Yes/No)
 
-2. **What factors would increase your satisfaction with the company?** (Select all that apply)
+1. Are you satisfied with your current role?(Yes/No)
+
+2. What factors would increase your satisfaction with the company?(Select all that apply)
    - Higher Pay
    - Better Benefits
    - Career Development Opportunities
    - Improved Work/Life Balance
 
-3. **What is the most important factor to you in a job right now?** (Select one)
+3. What is the most important factor to you in a job right now?(Select one)
    - Higher Pay
    - Better Benefits
    - Career Development Opportunities
    - Improved Work/Life Balance
 
-4. **What improvements would you like the company to make?** (Open-ended)
+4. What improvements would you like the company to make?(Open-ended)
 
-5. **Do you feel supported in the workplace?** (Please explain why or why not)
+5. Do you feel supported in the workplace?(Please explain why or why not)
 
-6. **If all factors remain the same, how likely are you to change companies?** (1 to 5, with 1 being least likely and 5 being most likely)
+6. If all factors remain the same, how likely are you to change companies? (1 to 5, with 1 being least likely and 5 being most likely)
 
-7. **How would you rate the communication within the company?** (1 to 5, with 1 being very poor and 5 being excellent)
+7. How would you rate the communication within the company? (1 to 5, with 1 being very poor and 5 being excellent)
 
-8. **Do you have access to the resources you need to do your job effectively?** (Yes/No, with a space for explanation)
+8. Do you have access to the resources you need to do your job effectively? (Yes/No, with a space for explanation)
 
-9. **How do you feel about the opportunities for professional growth in the company?** (1 to 5, with 1 being very dissatisfied and 5 being very satisfied)
+9. How do you feel about the opportunities for professional growth in the company? (1 to 5, with 1 being very dissatisfied and 5 being very satisfied)
 
-10. **Is there anything else you would like to share that could increase your satisfaction with your role and the company?** (Open-ended)
+10. Is there anything else you would like to share that could increase your satisfaction with your role and the company? (Open-ended)
 ```
 
 ## Rubric
