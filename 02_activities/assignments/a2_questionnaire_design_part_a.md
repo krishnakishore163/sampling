@@ -22,24 +22,54 @@ Describe the purpose of your survey:
 ```
 write your answer here...
 ```
+The survey aims to collect feedback from employees in entry-level and lower-level positions to inform strategic decision-making. By identifying the issues causing high turnover rates, we can determine the necessary actions to address them. Additionally, the survey will enhance employee engagement and promote greater transparency.
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
 write your answer here...
 ```
+Target Population: All employees in entry-level and lower-level positions at the company.
+
+Sampling Frame: The complete list of employees within the target population, as recorded in the company database.
+
+Sampling Units: Each individual chosen to participate in the survey.
+
+Sampling Strategy and Justification:
+
+Simple Random Sampling - I will select employees randomly from each stratum without any specific pattern, ensuring that every employee within the stratum has an equal chance of being selected.
+
+Justification:
+Using Simple Random Sampling ensures equal representation by giving every eligible employee an equal opportunity to participate in the survey. This approach helps avoid biases that could arise from the systematic exclusion or overrepresentation of certain groups or individuals.
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+
+
+1. Are you satisfied with your current role?(Yes/No)
+
+2. What factors would increase your satisfaction with the company?(Select all that apply)
+   - Higher Pay
+   - Better Benefits
+   - Career Development Opportunities
+   - Improved Work/Life Balance
+
+3. What is the most important factor to you in a job right now?(Select one)
+   - Higher Pay
+   - Better Benefits
+   - Career Development Opportunities
+   - Improved Work/Life Balance
+
+
+4. Do you feel supported in the workplace?(Please explain why or why not)
+
+5. If all factors remain the same, how likely are you to change companies? (1 to 5, with 1 being least likely and 5 being most likely)
+
+6. How would you rate the communication within the company? (1 to 5, with 1 being very poor and 5 being excellent)
+
+7. Do you have access to the resources you need to do your job effectively? (Yes/No, with a space for explanation)
+
+8. How do you feel about the opportunities for professional growth in the company? (1 to 5, with 1 being very dissatisfied and 5 being very satisfied)
+
 ```
 
 ## Rubric
