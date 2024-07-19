@@ -28,13 +28,19 @@ Describe your target population, sampling frame, sampling units, and observation
 ```
 write your answer here...
 ```
-**Target Population**: All employees in entry-level and lower-level positions at the company.
+Target Population: All employees in entry-level and lower-level positions at the company.
 
-**Sampling Frame**: The complete list of employees within the target population, as recorded in the company database.
+Sampling Frame: The complete list of employees within the target population, as recorded in the company database.
 
-**Sampling Units**: Each individual chosen to participate in the survey.
+Sampling Units: Each individual chosen to participate in the survey.
 
-**Observation Units**: Identical to the sampling units; the individuals selected for the survey.
+Sampling Strategy and Justification:
+
+Simple Random Sampling - I will select employees randomly from each stratum without any specific pattern, ensuring that every employee within the stratum has an equal chance of being selected.
+
+Justification:
+Using Simple Random Sampling ensures equal representation by giving every eligible employee an equal opportunity to participate in the survey. This approach helps avoid biases that could arise from the systematic exclusion or overrepresentation of certain groups or individuals.
+
 Your 5-10 question survey:
 ```
 
@@ -53,19 +59,17 @@ Your 5-10 question survey:
    - Career Development Opportunities
    - Improved Work/Life Balance
 
-4. What improvements would you like the company to make?(Open-ended)
 
-5. Do you feel supported in the workplace?(Please explain why or why not)
+4. Do you feel supported in the workplace?(Please explain why or why not)
 
-6. If all factors remain the same, how likely are you to change companies? (1 to 5, with 1 being least likely and 5 being most likely)
+5. If all factors remain the same, how likely are you to change companies? (1 to 5, with 1 being least likely and 5 being most likely)
 
-7. How would you rate the communication within the company? (1 to 5, with 1 being very poor and 5 being excellent)
+6. How would you rate the communication within the company? (1 to 5, with 1 being very poor and 5 being excellent)
 
-8. Do you have access to the resources you need to do your job effectively? (Yes/No, with a space for explanation)
+7. Do you have access to the resources you need to do your job effectively? (Yes/No, with a space for explanation)
 
-9. How do you feel about the opportunities for professional growth in the company? (1 to 5, with 1 being very dissatisfied and 5 being very satisfied)
+8. How do you feel about the opportunities for professional growth in the company? (1 to 5, with 1 being very dissatisfied and 5 being very satisfied)
 
-10. Is there anything else you would like to share that could increase your satisfaction with your role and the company? (Open-ended)
 ```
 
 ## Rubric
